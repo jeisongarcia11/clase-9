@@ -1,0 +1,8 @@
+/* Estilo del encabezado */
+header{
+    background-color: rgb(11, 123, 11);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
